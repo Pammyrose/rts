@@ -48,7 +48,6 @@ $total_users = $row_users['total_users'];
     }
 </style>
 <body>
-
     <?php include("sidebar.php"); ?>
 
     <div>

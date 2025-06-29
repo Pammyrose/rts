@@ -52,8 +52,8 @@
 <body class="flex flex-col items-center justify-center w-screen h-screen bg-gray-200 text-gray-700">
 
 <!-- Component Start -->
-<h1 class="font-bold text-2xl">Welcome Back :)</h1>
-<form class="form1 flex flex-col bg-white rounded shadow-lg p-12 mt-12" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post">
+<img src="rts.png" alt="" class="h-20 w-40">
+<form class="form1 flex flex-col bg-white rounded shadow-lg p-12 mt-5" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post">
 
     <label class="font-semibold text-xs text-white" for="usernameField">Username or Email</label>
     <input class="flex items-center h-12 px-4 w-64 bg-gray-200 mt-2 rounded focus:outline-none focus:ring-2" type="text" id="user" name="user">
