@@ -52,7 +52,7 @@
       <div class="text-gray-100 text-xl">
         <div class="p-2.5 mt-1 flex justify-center">
          
-   <img src="rts.png" alt="" class="h-20 w-40">
+   <img src="rts.png" alt="" class="h-20 w-45">
         </div>
 
       </div>
